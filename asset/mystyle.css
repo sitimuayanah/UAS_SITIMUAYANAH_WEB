@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,300,400,500,600,700&display=swap');
+
+body {
+   font-family: 'Montserrat', sans-serif;
+}
+#bgmhs {
+  font-family: 'Montserrat', sans-serif;
+  background-color: 'white;
+}
+
+#bgpink {
+  background-color: #F4EEE1;
+}
+
+.bgadmin {
+  background-color:'white';
+}
+
+.col-purple {
+	background-color: 'white';
+}
+
+
+.purple2 {
+	background-color: #C4BDAC;
+}
+
+.btn-pink{
+  background-color: #EBCFC4;
+}
+
+.btn-pink:hover {
+  background-color: #E4DAC2;
+}
+
+
+}
+
+.txt-bold {
+	font-weight: 500;
+}
+
+.login {
+  padding-top: 5px;
+}
+
+.human {
+  height: 300px !important;
+  padding-bottom: 20px;
+  margin-left: 25%;
+}
+
+.halang {
+  padding-top: 2%;
+}
+
+footer {
+  margin-top: -20px;
+  padding: 20px 0;
+  background-color: 'grey';
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+	-webkit-appearance: none !important;
+	margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+	-moz-appearance: textfield !important;
+}
+
+
+/* admin */
+.logo-nav-adm-mhs {
+  color: #d81b60 !important;
+  
+}
+
+
+
+
+/* material allert */
+.btn.modal-trigger {
+	display: block;
+	width: 100%;
+	padding: 30px;
+	line-height: 0px
+}
